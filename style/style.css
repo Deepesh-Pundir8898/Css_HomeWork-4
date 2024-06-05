@@ -24,6 +24,10 @@
     border:none;
     color: white;
 }
+.header input:focus{
+    outline: none;
+    background-color: rgb(99, 18, 18,0.9);
+}
 main{
     background-color: rgb(165, 42, 42, 0.2);
     padding: 2.5% 5% ;
